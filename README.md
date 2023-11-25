@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Santi Singha</h1>
+![_Black and Green Futuristic Technology LinkedIn Banner](https://github.com/20santi/20santi/assets/112798937/f2d5acf5-3790-4379-a6ee-c5c36a5c2095)
 
-https://github.com/20santi/20santi/assets/112798937/5fc319b0-0bef-45fd-a252-b6ea09172710
+<h1 align="center">Hi 👋, I'm Santi Singha</h1>
 
 <h3 align="center">I'm a passionate full-stack developer with a strong commitment to expanding my knowledge and skills in the world of web development. Crafting both frontend and backend components brings me immense joy, allowing me to bring digital experiences to life.</h3>
 
